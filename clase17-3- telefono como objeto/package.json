@@ -1,0 +1,14 @@
+{
+  "name": "clase17-3",
+  "version": "1.0.0",
+  "description": "practica en clase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adrian calo",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.15.3"
+  }
+}
